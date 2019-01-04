@@ -1,5 +1,5 @@
 # chota-OS
-### Computer Oragizational and Assembly Language Project
+## Computer Oragizational and Assembly Language Project
 
 __Assembling the code in nasm:__
   `nasm -f bin boot-sect.asm boot-sect.bin`
@@ -10,7 +10,7 @@ __Run on qemu__
 **Run on your system:**
 1. Make disk image by using command:
   `sudo dd if=boot-sect.bin of=disk.img conv=notrunc`
-2. Take a USB and use this to make live usb from __usb creator gui__(ubuntu).
+2. Take a USB and use this to make live usb from *usb creator gui*(ubuntu).
 3. Reboot your system and boot it from live usb.
 
 
