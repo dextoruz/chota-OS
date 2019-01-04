@@ -13,5 +13,6 @@ __Run on qemu__
 2. Take a USB and use this to make live usb from *__usb creator gui__*(ubuntu).
 3. Reboot your system and boot it from live usb.
 
+For more about the project, [click here](https://linxnerd.wordpress.com)
 
 That's all!
