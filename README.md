@@ -3,7 +3,7 @@
 
 ## TEAM ##
 * __Ali Husnain__
-* __Muhammad Humza Qureshi__ ([soothcier](https://soothscier.wordpress.com))
+* __Muhammad Humza Qureshi__ ([soothscier](https://soothscier.wordpress.com))
 * __Hafiz Bashir Ahmad__ 
 
 __Assembles the code:__
