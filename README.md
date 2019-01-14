@@ -9,8 +9,8 @@
 
 - [x] Make your own bootloader and boot it from __USB__.
 - [x] Enables the keyboard(input/output). 
-- [] Enables the mouse.(_because there are no BIOS interrupts for mouse!_)
-	* But you could find to enable the mouse [here.](https://stackoverflow.com/questions/53930033/how-to-enable-show-mouse-cursor-on-bootloader-screen)
+- [ ] Enables the mouse.(_because there are no BIOS interrupts for mouse!_)
+	* __But you could find about enabling the mouse__ [here.](https://stackoverflow.com/questions/53930033/how-to-enable-show-mouse-cursor-on-bootloader-screen)
 
 __To Assemble the code:__
 
