@@ -12,6 +12,7 @@ __Run on qemu__
 1. Make disk image by using command:
   `sudo dd if=boot-sect.bin of=disk.img conv=notrunc`
 2. Take a USB and use this to make live usb from *__usb creator gui__*(ubuntu).
+	__or__ use this command: `sudo dd if=disk.img of=/dev/sdb` 
 3. Reboot your system and boot it from live usb.
 
 For more about the project, [click here](https://linxnerd.wordpress.com)
