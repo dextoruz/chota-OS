@@ -1,5 +1,4 @@
-# chota-OS
-## Computer Oragizational and Assembly Language Project
+# ChotaOS (COAL Project)
 
 ## TEAM ##
 * __Ali Husnain__
