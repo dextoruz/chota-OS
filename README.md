@@ -1,16 +1,17 @@
 # ChotaOS: A mini bootloader (COAL Project)
 
 ## TEAM ##
-* __Ali Husnain__
-* __Muhammad Humza Qureshi__ ([soothscier](https://soothscier.wordpress.com))
+
 * __Hafiz Bashir Ahmad__ 
+* __Muhammad Humza Qureshi__ ([soothscier](https://soothscier.wordpress.com))
+* __Ali Husnain__
 
 ## Project's Requirements ##
 
 - [x] Make your own bootloader and boot it from __USB__.
 - [x] Enables the keyboard(input/output). 
-- [ ] Enables the mouse.(_because there are no BIOS interrupts for mouse!_)
-	* __But you could get something about enabling the mouse__ [here.](https://stackoverflow.com/questions/53930033/how-to-enable-show-mouse-cursor-on-bootloader-screen)
+- [ ] Enables the mouse.(_because there are no **BIOS interrupts** for mouse!_)
+	* __But there is a way to enable the mouse__ [here.](https://stackoverflow.com/questions/53930033/how-to-enable-show-mouse-cursor-on-bootloader-screen)
 
 __To Assemble the code:__
 
