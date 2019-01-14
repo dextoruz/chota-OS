@@ -6,6 +6,7 @@ __Assembling the code in nasm:__
 
 __Run on qemu__
   `qemu-system-x86_64 -fda boot-sect.bin`
+[!qemu](https://github.com/linxnerd/chota-OS/screenshots/1.png)
 
 **Run on your system:**
 1. Make disk image by using command:
