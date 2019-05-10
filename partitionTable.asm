@@ -18,5 +18,5 @@ LargeSectors		dd 0
 DriveNo			dw 0
 Signature		db 41
 VolumeID		dd 87654321h
-VolumeLabel		db "JerryOS"
+VolumeLabel		db "ChotaOS"
 FileSystem		db "FAT12   "
