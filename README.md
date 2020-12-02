@@ -21,7 +21,7 @@ __To Run on qemu:__
 
   * `qemu-system-x86_64 -fda boot-sect.bin`
 
-![qemu](https://github.com/linxnerd/chota-OS/blob/master/screenshots/1.png)
+![qemu](https://github.com/dextoruz/chota-OS/blob/master/screenshots/1.png)
 
 ### To run on your system: ###
 
@@ -31,11 +31,11 @@ __To Run on qemu:__
 2. Command for making live USB: 
    * `sudo dd if=disk.img of=/dev/sdb` 
 
-![qemu](https://github.com/linxnerd/chota-OS/blob/master/screenshots/2.png)
+![qemu](https://github.com/dextoruz/chota-OS/blob/master/screenshots/2.png)
 
 
 3. Reboot your system and boot it from the live USB.
 
-![qemu](https://github.com/linxnerd/chota-OS/blob/master/screenshots/3.jpg)
+![qemu](https://github.com/dextoruz/chota-OS/blob/master/screenshots/3.jpg)
 
 That's all!
